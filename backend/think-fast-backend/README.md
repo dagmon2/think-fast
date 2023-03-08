@@ -1,9 +1,9 @@
 # Getting Started with Think Fast Backend
 
-## Installation and Running the app
+## How to use:
 
-```bash
+In the project directory, you can run:
 
-$ npm install && npm run start
+### `npm install && npm run start`
 
-##### The app is listening on port 3001
+The app is listening on port 3001
