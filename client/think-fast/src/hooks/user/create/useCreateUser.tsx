@@ -2,7 +2,7 @@ import { useState } from "react";
 
 interface User {
   username: string;
-  score?: number;
+  score: number;
 }
 
 interface CreateUserResponse {

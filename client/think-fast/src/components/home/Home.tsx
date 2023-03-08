@@ -16,7 +16,7 @@ const Home: React.FC = () => {
 
   const handleStartClick = async () => {
     try {
-      const response = await createUser({ username });
+      const response = await createUser({ username, score: 0 });
       // TODO: Message to user if username is taken
     } catch (error) {
       // console.log("error while trying to create user", error) // debug
