@@ -1,0 +1,20 @@
+.label {
+  display: block;
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: #030303;
+  background-color: #eee;
+  padding: 0.5rem;
+  border-radius: 0.25rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.success {
+  background-color: rgb(52, 163, 52);
+  color: #d4dac9;
+}
+
+.failed {
+  background-color: rgb(226, 77, 77);
+  color: #131212;
+}

@@ -1,0 +1,21 @@
+.circle-container-left {
+  display: flex;
+  width: 70vw;
+  justify-content: start;
+  align-items: center;
+}
+
+.circle-container-right {
+  display: flex;
+  width: 70vw;
+  justify-content: end;
+  align-items: center;
+}
+
+.circle {
+  width: 20rem;
+  height: 20rem;
+  background-color: rgb(155, 180, 209);
+  border-radius: 50%;
+  position: absolute;
+}
