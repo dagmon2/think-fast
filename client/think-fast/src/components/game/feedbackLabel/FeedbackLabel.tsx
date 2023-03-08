@@ -1,4 +1,4 @@
-import React, { FC } from "react";
+import React from "react";
 import "./feedback-label.css";
 
 export type FeedbackText = "Success" | "Wrong Key" | "Too Soon" | "Too Late";

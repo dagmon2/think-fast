@@ -1,14 +1,14 @@
 .circle-container-left {
   display: flex;
   width: 70vw;
-  justify-content: start;
+  justify-content: flex-start;
   align-items: center;
 }
 
 .circle-container-right {
   display: flex;
   width: 70vw;
-  justify-content: end;
+  justify-content: flex-end;
   align-items: center;
 }
 
